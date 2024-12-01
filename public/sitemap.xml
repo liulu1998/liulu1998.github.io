@@ -14,4 +14,10 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>https://liulu1998.github.io/posts/my-first-post/</loc>
+    <lastmod>2024-12-01T18:01:12+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
