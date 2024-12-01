@@ -45,11 +45,6 @@ jobs:
         with:
           hugo-version: 'latest'
 
-      - name: Build with Hugo
-        run: |
-          hugo \
-            --minify \
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
